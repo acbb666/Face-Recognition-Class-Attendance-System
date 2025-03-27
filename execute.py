@@ -785,3 +785,4 @@ if __name__ == '__main__':
     mainWindow.ui.bt_random_check.clicked.connect(rcWindow.handle_click)
     mainWindow.show()
     sys.exit(app.exec_())
+#进行的示例修改
